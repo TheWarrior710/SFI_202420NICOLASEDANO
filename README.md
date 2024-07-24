@@ -6,8 +6,12 @@
 
 
 ## b) ¿Que diferencia hay entre repositorio local y remoto?
+### RTA:
+#### Un repositorio local es una manera practica para gestionar archivos desde el desktop o maquina local el cual sirve de puente para subir archivos al repositorio remoto y la diferencia del repositorio remoto es trabajar de manera online con gran cantidad de personas a la vez donde se puede tener acceso al archivo en la nube de GitHub ademas de como anteiormente mensionado se tiene acceso al historial de versiones y cambios que se le han hecho al proyecto.
 
 ## c) ¿Mencione tres diferencias entre git y git hub
+
+
 
 ## d) Area de trabajo, Area de preparacion (ubicarse para la foto) y directorio git(Toma la foto), podrias explicar en que consisten?
 
