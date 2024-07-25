@@ -2,7 +2,7 @@
 
 ## a) ¿Que es un sistema de control de versiones?
 ### RTA:
-#### Es una herramienta muy util a la hora de gestionar un proyecto ya sea unicamnete del propietario o colaborativo entre varios usuarios ya que nos permite tener mayor control del cada una de las versiones creadas de este archivo y en caso dado que se dañe la version mas resiente unicamente se logre restaurar a la ultima version creada sin necesidad de empezar el proyecto desde 0.
+#### Es una herramienta muy util a la hora de gestionar un proyecto ya sea unicamete del propietario o colaborativo entre varios usuarios ya que nos permite tener mayor control del cada una de las versiones creadas de este archivo y en caso dado que se dañe la version mas resiente solamente lograr restaurar la ultima version creada sin necesidad de empezar el proyecto desde 0.
 
 
 ## b) ¿Que diferencia hay entre repositorio local y remoto?
