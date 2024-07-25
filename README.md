@@ -34,5 +34,5 @@
 
 ## e) Para que se utilizan las ramas en Git?
 ### RTA:
-#### Las ramas en git se usan para distribuir de manera mas organizada los roles o partes en especifico en la cual tienen que trabajar los desorralladores para que de esta forma se logre mayor eficacia a la hora de trabajar remotamente
+#### Las ramas en git se usan para distribuir de manera mas organizada los roles o partes en especifico en la cual tienen que trabajar los desorralladores para que de esta forma se logre mayor eficacia a la hora de trabajar remotamente.
 
