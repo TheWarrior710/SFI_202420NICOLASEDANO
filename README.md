@@ -11,9 +11,9 @@
 
 ## c) ¿Mencione tres diferencias entre git y git hub
 ### RTA:
-#### -Git Bash se usa para gestionar archivos y carpetas desde el desktop local,   -Git hub se puede usar para trabjar remotamente.
-#### -Git Bash se usa a base de lineas de comando                                  -Git hub es una plataforma web
-#### -Git es un aplicacion que necesita ser descargada                             -Git hub Guarda historial de versiones del archivo
+#### -Git Bash se usa para gestionar archivos y carpetas desde el desktop local,  #### -Git hub se puede usar para trabjar remotamente.
+#### -Git Bash se usa a base de lineas de comando                                 #### -Git hub es una plataforma web
+#### -Git es un aplicacion que necesita ser descargada                            ####-Git hub Guarda historial de versiones del archivo
 
 
 
